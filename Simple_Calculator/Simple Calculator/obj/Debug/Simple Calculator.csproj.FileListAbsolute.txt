@@ -1,0 +1,8 @@
+C:\Users\ivann\Documents\Visual Studio 2022\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\ivann\Documents\Visual Studio 2022\Simple Calculator\obj\Debug\Simple Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivann\Documents\Visual Studio 2022\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ivann\Documents\Visual Studio 2022\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\ivann\Documents\Visual Studio 2022\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\ivann\Documents\Visual Studio 2022\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\ivann\Documents\Visual Studio 2022\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\ivann\Documents\Visual Studio 2022\Simple Calculator\obj\Debug\Simple Calculator.pdb
